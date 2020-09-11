@@ -7,7 +7,7 @@ A nodeJs script that provides basic information about the system on which it is 
 
 1. Download the `system.js` file
 2. Open a command console and navigate to the location of the file.
-3. Run the command `node. \system.js`
+3. Run the command `node .\system.js`
 
 # :pencil: Contribution:
 
