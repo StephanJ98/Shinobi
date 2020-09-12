@@ -30,6 +30,14 @@ A nodeJs script that provides basic information about the system on which it is 
 2. Open a command console and navigate to the location of the file.
 3. Run the command `node .\system.js` on Windows or run `node system.js` on Linux.
 
+# :bullettrain_front: Performance
+
+#### Avegage time execution
+| Windows | Linux |
+|---|---|
+|  31 ms | 47 ms |
+| `Tested on a Asus F556U (i7-6500U, 12Go)` | `Tested on a Raspberry Pi 4 B (4 Go)` |
+
 # :pencil: Contribution:
 
 Contribute if you want, adding new features and name yourselves in the Readme.md
