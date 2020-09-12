@@ -37,7 +37,7 @@ const network = async () => {
     }
 }
 
-async function func() {
+async function main() {
     await console.log('Platform: ' + os.type() + ' ' + os.platform() + ' ' + os.release() + ' ' + os.version())
     await console.log('Free RAM: ' + (os.freemem() / 1073741824).toPrecision(3) + 'Go')
     await console.log('Total RAM: ' + (os.totalmem() / 1073741824).toPrecision(3) + 'Go')
@@ -46,7 +46,7 @@ async function func() {
     await console.log('Architecture: ' + os.arch())
 };
 
-func()
+main()
 
 process.on('exit', (code) => {
     console.log('Process exit event with code: ', code);
