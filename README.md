@@ -17,6 +17,9 @@ A nodeJs script that provides basic information about the system on which it is 
 | CPU Cores  | CPU Cores  |
 | CPU Architecture  | CPU Architecture  |
 
+# :computer: Current supported OS
+- Windows (``Tested in Windows 10``)
+- Linux (``Tested in Raspbian Buster``)
 
 # :rocket: Requirements:
 - Node > v12.0.0
