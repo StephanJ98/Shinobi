@@ -1,4 +1,4 @@
-![alt text](https://image.freepik.com/vecteurs-libre/ninja_1975-280.jpg "Image from freepik.com")
+<img src="https://image.freepik.com/vecteurs-libre/ninja_1975-280.jpg" alt="Image from freepik.com" width="313"/>
 
 A nodeJs script that provides basic information about the system on which it is run.
 
