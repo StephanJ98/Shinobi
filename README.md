@@ -1,4 +1,6 @@
-<img src="https://image.freepik.com/vecteurs-libre/ninja_1975-280.jpg" alt="Image from freepik.com" width="313"/>
+<p align="center">
+  <img width="313" src="https://image.freepik.com/vecteurs-libre/ninja_1975-280.jpg" alt="Image from freepik.com"/>
+</p>
 
 A nodeJs script that provides basic information about the system on which it is run.
 
