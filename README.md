@@ -1,3 +1,5 @@
+![alt text](https://image.freepik.com/vecteurs-libre/ninja_1975-280.jpg "Image from freepik.com")
+
 A nodeJs script that provides basic information about the system on which it is run.
 
 # :beer: Given Information:
