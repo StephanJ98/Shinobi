@@ -48,6 +48,4 @@ async function main() {
 
 main()
 
-process.on('exit', (code) => {
-    console.log('Process exit event with code: ', code);
-});
+process.on('exit', (code) => { console.log('Process exit event with code: ', code) });
